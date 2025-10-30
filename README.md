@@ -1,6 +1,8 @@
 # Final-AD-VIT-Code--Sujan
 Final-AD-VIT-Code - this is my theis code (sept-23-version-4-ad-vit-llm-grad-cam)
 
+Dataset Link: (Kaggle) https://www.kaggle.com/datasets/isujan/oasisdataset  (uploaded in Kaggle due to free space)
+
 
 <img width="1536" height="1024" alt="gradvit" src="https://github.com/user-attachments/assets/c89754a5-03fb-4fef-8a25-6ceb8892e137" />
 
